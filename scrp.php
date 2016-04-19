@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
 
 
-        echo "Hello World !! That's me to test My repstory .. , Thanks ";
+        echo "Finished All SSH Lessons";
 /*
         $latlng = "44.3585230889,8.57745766643";
 $lang = "it";
