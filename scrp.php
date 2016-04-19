@@ -60,21 +60,7 @@ if ($httpCode == 200) {
 
 
  // create a new cURL resource
-$ch = curl_init();
-
-// set URL and other appropriate options
-curl_setopt($ch, CURLOPT_URL, 'http://www.jacobward.co.uk/web-scraping-with-php-curl-part-1/');
-curl_setopt($ch, CURLOPT_HEADER, 0);
-
-// copy the handle
-echo $ch2 = curl_copy_handle($ch);
-
-// grab URL (http://www.example.com/) and pass it to the browser
-curl_exec($ch2);
-
-// close cURL resources, and free up system resources
-curl_close($ch2);
-curl_close($ch);
+ 
         ?>
      </body>
 </html>
