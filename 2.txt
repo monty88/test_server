@@ -1,0 +1,32 @@
+
+====> Should Work Started From 11/11/2022
+[Changed:10-11-2022] => https://codedtag.com/python/free-online-python-compiler-interpreter/
+[Changed:10-11-2022] => https://codedtag.com/php/php-or-operator/
+[Changed:10-11-2022] => https://codedtag.com/git/git-force-pull-overwrite/
+[Changed:10-11-2022] => https://codedtag.com/node-js/online-node-js-compiler/
+[Changed:10-11-2022] => https://codedtag.com/php/php-resource/
+[Changed:10-11-2022] => https://codedtag.com/php/php-spaceship-operator/
+
+
+====> Should Work Started From 12/11/2022
+[Changed:11-11-2022] => https://codedtag.com/php/php-remove-last-character-from-string/
+[Changed:11-11-2022] => https://codedtag.com/git/git-pull-remote-branch-to-local-branch/
+
+--> in progress
+[Changed:11-11-2022] => https://codedtag.com/git/git-branch/
+
+
+https://codedtag.com/php/php-data-types-php-gettype/
+https://codedtag.com/php/php-continue-statement/
+
+https://codedtag.com/php/php-break-exit-php-loop/
+https://codedtag.com/sql-server/table-valued-parameters-in-sql-server/
+https://codedtag.com/php/php-xor-operator/
+https://codedtag.com/php/php-object/
+https://codedtag.com/php/php-hello-world/
+
+
+
+How to Use Git Pull Force To Overwite the Local Chanage
+The git pull force command, used to overwrite and replaces the changes in the local branch with the changes of the online branch, 
+the refs should be added to the git tree by the commit
